@@ -66,7 +66,7 @@
 
 ------------
 
-# [ziye12](https://github.com/ziye12/JavaScript")
+# [ziye12](https://github.com/ziye12 "ziye12")  
 [1.笑谱](https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js "1.笑谱")  
 
 |脚本名|图标名|备注|
