@@ -15,9 +15,11 @@
 |签到领现金|jd_cash|恢复后补js链接|
 |助力码获取|jd_get_share_code|恢复后补js链接|
 
-图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/lxk0301/xxxxx(图标名).png
+彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/lxk0301/xxxxx(图标名).png  
+透明版图标地址：https://github.com/yogayyy/Scripts/blob/main/Mini/lxk0301/xxxxx(图标名).png  
 > 例：
-口袋读书图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_bookshop.png
+口袋读书彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_bookshop.png  
+口袋读书透明版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/lxk0301/jd_bookshop.png（暂无）  
 
 ------------
 
@@ -38,10 +40,11 @@
 |宝洁美发屋|jd_bj|活动结束时间：2021年1月31日|
 |工业消消乐|jd_gyxxl|待补|
 
-图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/shylocks/xxxxx(图标名).png
+彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/shylocks/xxxxx(图标名).png  
+透明版图标地址：https://github.com/yogayyy/Scripts/blob/main/Mini/shylocks/xxxxx(图标名).png  
 > 例：
-盲盒抽京豆图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylock/jd_mh.png
-
+盲盒抽京豆彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylock/jd_mh.png
+盲盒抽京豆彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/shylock/jd_mh.png（暂无）
 ------------
 
 # [ZhiYi-N](https://github.com/ZhiYi-N "ZhiYi-N")
@@ -51,6 +54,10 @@
 | :------------: | :------------: | :------------: |
 |笑谱|xp|tgchannel：https://t.me/ZhiYi_Script|
 
-图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/ZhiYi-N/xxxxx(图标名).png
+彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/ZhiYi-N/xxxxx(图标名).png  
+透明板图表地址：https://github.com/yogayyy/Scripts/blob/main/Mini/ZhiYi-N/xxxxx(图标名).png  
 > 例：
-笑谱图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/ZhiYi-N/xp.png
+笑谱彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/ZhiYi-N/xp.png  
+笑谱透明版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/ZhiYi-N/xp_mini.png  
+
+
