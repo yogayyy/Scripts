@@ -7,13 +7,13 @@
 
 # [lxk0301](www.google.com "lxk0301")
 2021-01-16 GitHub库暂时失联，链接暂不补，如有需要请移步大佬gitee.
+#### 老大其他Js对应的图标请先移步[58xinian](https://github.com/58xinian/icon "58xinian")大佬；
 
 |脚本名|图标名|备注|
 | :------------: | :------------: | :------------: |
-|口袋读书|jd_kdds|jd_kdds|
-|签到领现金|8|jd_kdds|
-|助力码获取|8|jd_kdds|
-|助力码提交|8|jd_kdds|
+|口袋读书|jd_bookshop|恢复后补js链接|
+|签到领现金|jd_cash|恢复后补js链接|
+|助力码获取|jd_get_share_code|恢复后补js链接|
 
 图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/lxk0301/xxxxx(图标名).png
 > 例：
