@@ -44,7 +44,8 @@
 透明版图标地址：https://github.com/yogayyy/Scripts/blob/main/Mini/shylocks/xxxxx(图标名).png  
 > 例：
 盲盒抽京豆彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylock/jd_mh.png
-盲盒抽京豆彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/shylock/jd_mh.png（暂无）
+盲盒抽京豆彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/shylock/jd_mh.png（暂无）  
+
 ------------
 
 # [ZhiYi-N](https://github.com/ZhiYi-N "ZhiYi-N")
