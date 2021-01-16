@@ -17,7 +17,7 @@
 
 彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/lxk0301/xxxxx(图标名).png  
 透明版图标地址：https://github.com/yogayyy/Scripts/blob/main/Mini/lxk0301/xxxxx(图标名).png  
-> 例：
+> 例：  
 口袋读书彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_bookshop.png  
 口袋读书透明版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/lxk0301/jd_bookshop.png（暂无）  
 
@@ -42,7 +42,7 @@
 
 彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/shylocks/xxxxx(图标名).png  
 透明版图标地址：https://github.com/yogayyy/Scripts/blob/main/Mini/shylocks/xxxxx(图标名).png  
-> 例：
+> 例：  
 盲盒抽京豆彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylock/jd_mh.png  
 盲盒抽京豆彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/shylock/jd_mh.png（暂无）  
 
@@ -57,7 +57,7 @@
 
 彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/ZhiYi-N/xxxxx(图标名).png  
 透明板图表地址：https://github.com/yogayyy/Scripts/blob/main/Mini/ZhiYi-N/xxxxx(图标名).png  
-> 例：
+> 例：  
 笑谱彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/ZhiYi-N/xp.png  
 笑谱透明版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/ZhiYi-N/xp_mini.png  
 
