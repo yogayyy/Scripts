@@ -15,6 +15,8 @@
 |口袋读书|jd_bookshop|恢复后补js链接|
 |签到领现金|jd_cash|恢复后补js链接|
 |助力码获取|jd_get_share_code|恢复后补js链接|
+|京东年货节|jd_nh|恢复后补js链接|
+
 
 彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/lxk0301/xxxxx(图标名).png  
 透明版图标地址：https://github.com/yogayyy/Scripts/blob/main/Mini/lxk0301/xxxxx(图标名).png  
