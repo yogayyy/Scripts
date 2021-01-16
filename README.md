@@ -40,7 +40,7 @@
 
 图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/shylocks/xxxxx(图标名).png
 > 例：
-盲盒抽京豆图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_mh.png
+盲盒抽京豆图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylock/jd_mh.png
 
 ------------
 
