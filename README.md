@@ -6,8 +6,8 @@
 ------------
 
 # [lxk0301](www.google.com "lxk0301")
-2021-01-16 GitHub库暂时失联，链接暂不补，如有需要请移步大佬gitee.
-#### 老大其他Js对应的图标请先移步[58xinian](https://github.com/58xinian/icon "58xinian")大佬；
+2021-01-16 GitHub库暂时失联，链接暂不补，如有需要请移步大佬gitee.  
+#### 老大其他Js对应的图标请先移步[58xinian](https://github.com/58xinian/icon "58xinian")大佬；  
 
 |脚本名|图标名|备注|
 | :------------: | :------------: | :------------: |
@@ -45,7 +45,7 @@
 ------------
 
 # [ZhiYi-N](https://github.com/ZhiYi-N "ZhiYi-N")
-[1.笑谱](https://github.com/ZhiYi-N/Private-Script/blob/master/Scripts/xp.js "1.笑谱")
+[1.笑谱](https://github.com/ZhiYi-N/Private-Script/blob/master/Scripts/xp.js "1.笑谱")  
 
 |脚本名|图标名|备注|
 | :------------: | :------------: | :------------: |
