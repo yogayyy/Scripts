@@ -36,7 +36,7 @@
 |京东粉丝专享|jd_wechat_sign|入口：京东公众号底栏菜单|
 |超级直播间红包雨|jd_live_redrain|每天20-23半点可领|
 |宝洁美发屋|jd_bj|活动结束时间：2021年1月31日|
-|工业消消乐|待|补|
+|工业消消乐|jd_gyxxl|待补|
 
 图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/shylocks/xxxxx(图标名).png
 > 例：
