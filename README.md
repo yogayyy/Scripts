@@ -17,7 +17,7 @@
 
 图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/lxk0301/xxxxx(图标名).png
 > 例：
-口袋读书图标引用链接为：https://github.com/yogayyy/Scripts/blob/main/Icon/lxk0301/jd_kdsd.png
+口袋读书图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_bookshop.png
 
 ------------
 
@@ -40,7 +40,7 @@
 
 图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/shylocks/xxxxx(图标名).png
 > 例：
-忙和抽京豆图标引用链接为：https://github.com/yogayyy/Scripts/blob/main/Icon/shylocks/jd_mh.png
+盲盒抽京豆图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_mh.png
 
 ------------
 
@@ -53,4 +53,4 @@
 
 图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/ZhiYi-N/xxxxx(图标名).png
 > 例：
-笑谱图标引用链接为：https://github.com/yogayyy/Scripts/blob/main/Icon/ZhiYi-N/xp.png
+笑谱图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/ZhiYi-N/xp.png
