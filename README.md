@@ -64,4 +64,19 @@
 笑谱彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/ZhiYi-N/xp.png  
 笑谱透明版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/ZhiYi-N/xp_mini.png  
 
+------------
+
+# [ziye12](https://github.com/ziye12/JavaScript")
+[1.笑谱](https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js "1.笑谱")  
+
+|脚本名|图标名|备注|
+| :------------: | :------------: | :------------: |
+|笑谱|iboxpay|ziye12版本|
+
+彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/ziye12/xxxxx(图标名).png  
+透明板图表地址：https://github.com/yogayyy/Scripts/blob/main/Mini/ziye12/xxxxx(图标名).png  
+> 例：  
+笑谱彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/ziye12/iboxpay.png  
+笑谱透明版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/ziye12/iboxpay.png  
+
 
