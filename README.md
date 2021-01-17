@@ -40,8 +40,8 @@
 彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/lxk0301/xxxxx(图标名).png  
 透明版图标地址：https://github.com/yogayyy/Scripts/blob/main/Mini/lxk0301/xxxxx(图标名).png  
 > 例：  
-口袋读书彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_bookshop.png  
-口袋读书透明版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/lxk0301/jd_bookshop.png（暂无）  
+口袋读书彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_bookshop.jpg  
+口袋读书透明版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/lxk0301/jd_bookshop.png  
 
 ------------
 
