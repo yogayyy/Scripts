@@ -6,17 +6,15 @@
 
 ------------
 
-# [lxk0301](www.google.com "lxk0301")
-2021-01-16 GitHub库暂时失联，链接暂不补，如有需要请移步大佬gitee.  
+# [lxk0301](https://github.com/LXK9301/jd_scripts/tree/master "lxk0301")  
 #### 老大其他Js对应的图标请先移步[58xinian](https://github.com/58xinian/icon "58xinian")大佬；  
 
 |脚本名|图标名|备注|
 | :------------: | :------------: | :------------: |
-|口袋读书|jd_bookshop|恢复后补js链接|
-|签到领现金|jd_cash|恢复后补js链接|
-|助力码获取|jd_get_share_code|恢复后补js链接|
-|京东年货节|jd_nh|恢复后补js链接|
-
+|口袋读书|jd_bookshop|1.16已恢复新库|
+|签到领现金|jd_cash|1.16已恢复新库|
+|助力码获取|jd_get_share_code|1.16已恢复新库|
+|京东年货节|jd_nh|1.16已恢复新库|
 
 彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/lxk0301/xxxxx(图标名).png  
 透明版图标地址：https://github.com/yogayyy/Scripts/blob/main/Mini/lxk0301/xxxxx(图标名).png  
