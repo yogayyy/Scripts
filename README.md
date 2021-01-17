@@ -1,3 +1,9 @@
+20210117更新日志：  
+1.shylocks大佬的iocn已整理成组，需要订阅的可以移步大佬的TG频道：https://t.me/joinchat/V0oxYENmx2PTlY1L  
+2.lxk0301大佬的脚本比较多，今天只整理了一下宠汪汪相关的脚本图标，其他的逐步更新；
+
+------------
+
 本项目针对个人使用的一些脚本做了圈X的icon汇总，仅供参考。  
 风格尽量保持简洁，策略图标请参考[Koolson](https://github.com/Koolson/Qure "Koolson")的项目，大佬已经做的很好了。  
 未完待续...  
