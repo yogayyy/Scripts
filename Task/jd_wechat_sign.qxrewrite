@@ -1,0 +1,6 @@
+# 需要获取额外ck，获取方式为从活动入口进入一次，不会影响原有京东ck
+# 活动入口：京东JD.COM 公众号-粉丝福利-签到兑红包
+
+hostname = wq.jd.com
+
+https:\/\/wq\.jd\.com\/bases\/jssdk\/GetWxJsApiSign url script-request-header https://raw.githubusercontent.com/shylocks/Loon/main/jd_wechat_sign.js
