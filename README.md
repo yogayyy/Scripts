@@ -30,7 +30,7 @@
 [3.京东粉丝专享](https://github.com/shylocks/Loon/blob/main/jd_wechat_sign.js "3.京东粉丝专享")  
 [4.超级直播间红包雨](https://github.com/shylocks/Loon/blob/main/jd_live_redrain.js "4.超级直播间红包雨")  
 [5.宝洁美发屋](https://github.com/shylocks/Loon/blob/main/jd_bj.js "5.宝洁美发屋")  
-[6.工业消消乐（待补）](https://github.com/shylocks/Loon "4.工业消消乐（待补）")  
+[6.工业消消乐](https://github.com/shylocks/Loon/blob/main/jd_gyec.js "4.工业消消乐")  
 
 |脚本名|图标名|备注|
 | :------------: | :------------: | :------------: |
