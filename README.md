@@ -1,21 +1,35 @@
 本项目针对个人使用的一些脚本做了圈X的icon汇总，仅供参考。  
+风格尽量保持简洁，策略图标请参考[Koolson](https://github.com/Koolson/Qure "Koolson")的项目，大佬已经做的很好了。  
 未完待续...  
 
-- [ ] 完善图标；
-- [ ] 补充透明版；  
+- [ ] 继续完善lxk0301大佬的脚本图标；
+- [ ] 补充对应的透明版；  
 - [ ] 补充图标预览图；  
 
 ------------
 
 # [lxk0301](https://github.com/LXK9301/jd_scripts/tree/master "lxk0301")  
-#### 老大其他Js对应的图标请先移步[58xinian](https://github.com/58xinian/icon "58xinian")大佬；  
+[1.宠汪汪](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy.js "1.宠汪汪")  
+[2.宠汪汪强制为好友助力](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_help.js "2.宠汪汪强制为好友助力")  
+[3.宠汪汪兑换奖品](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_reward.js "3.宠汪汪兑换奖品")  
+[4.宠汪汪赛跑助力](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_run.js "4.宠汪汪赛跑助力")  
+[5.宠汪汪单独喂食](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_feedPets.js "5.宠汪汪单独喂食")  
+[6.宠汪汪偷好友狗粮与积分](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_steal.js "4.宠汪汪偷好友狗粮与积分")  
+
+#### 老大其他Js对应的图标目前请先移步[58xinian](https://github.com/58xinian/icon "58xinian")大佬；  
 
 |脚本名|图标名|备注|
 | :------------: | :------------: | :------------: |
 |口袋读书|jd_bookshop|1.16已恢复新库|
 |签到领现金|jd_cash|1.16已恢复新库|
 |助力码获取|jd_get_share_code|1.16已恢复新库|
-|京东年货节|jd_nh|1.16已恢复新库|
+|京东年货节|jd_nh|1.16新库已恢复|
+|宠汪汪|jd_joy|1.16新库已恢复|
+|宠汪汪强制为好友助力|jd_joy_help|iOS端专用|
+|宠汪汪兑换奖品|jd_joy_reward|1.16新库已恢复|
+|宠汪汪赛跑助力|jd_joy_run|1.16新库已恢复|
+|宠汪汪单独喂食|jd_joy_feedPets|1.16新库已恢复|
+|宠汪汪偷好友狗粮与积分|jd_joy_steal|1.16新库已恢复|
 
 彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/lxk0301/xxxxx(图标名).png  
 透明版图标地址：https://github.com/yogayyy/Scripts/blob/main/Mini/lxk0301/xxxxx(图标名).png  
