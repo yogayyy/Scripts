@@ -31,6 +31,7 @@
 [4.超级直播间红包雨](https://github.com/shylocks/Loon/blob/main/jd_live_redrain.js "4.超级直播间红包雨")  
 [5.宝洁美发屋](https://github.com/shylocks/Loon/blob/main/jd_bj.js "5.宝洁美发屋")  
 [6.工业消消乐](https://github.com/shylocks/Loon/blob/main/jd_gyec.js "4.工业消消乐")  
+[7.东东爱消除（待补）](https://github.com/shylocks "4.东东爱消除（待补）")  
 
 |脚本名|图标名|备注|
 | :------------: | :------------: | :------------: |
@@ -40,6 +41,7 @@
 |超级直播间红包雨|jd_live_redrain|每天20-23半点可领|
 |宝洁美发屋|jd_bj|活动结束时间：2021年1月31日|
 |工业消消乐|jd_gyec|已同步更新|
+|东东爱消除|jd_xxl|待更新|
 
 彩色版图标地址：https://github.com/yogayyy/Scripts/blob/main/Icon/shylocks/xxxxx(图标名).jpg  
 透明版图标地址：https://github.com/yogayyy/Scripts/blob/main/Mini/shylocks/xxxxx(图标名).png  
