@@ -100,4 +100,6 @@
 笑谱彩色版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/ziye12/iboxpay.png  
 笑谱透明版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/ziye12/iboxpay.png  
 
-
+------------
+# 效果展示区
+![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/example/shylocks%E6%95%88%E6%9E%9C%E5%9B%BE.png)
