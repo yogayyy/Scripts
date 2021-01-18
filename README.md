@@ -31,7 +31,7 @@
 |口袋读书|jd_bookshop|1.16已恢复新库|
 |签到领现金|jd_cash|重做ing|
 |助力码获取|jd_get_share_code|重做ing|
-|京东年货节|jd_nh|1.16新库已恢复|
+|京东年货节|jd_nh|作者为shylocks所以icon也放到了shylocks的目录|
 |宠汪汪|jd_joy|感觉还需要再优化|
 |宠汪汪强制为好友助力|jd_joy_help|iOS端专用|
 |宠汪汪兑换奖品|jd_joy_reward|1.16新库已恢复|
