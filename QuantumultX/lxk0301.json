@@ -1,6 +1,6 @@
 {
-  "name": "LXK0301 task gallery",
-  "description": "该订阅同步于lxk0301，只是重新匹配了图标。原地址 https://github.com/LXK9301/jd_scripts",
+  "name": "LXK0301",
+  "description": "该订阅同步于lxk0301，只是重新匹配了图标；https://github.com/LXK9301/jd_scripts",
   "task": [
     "15 1,7,9,12,18,21 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy.js, tag=宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png",
     "12 */1 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_feedPets.js, tag=宠汪汪喂食 , img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_joy_feedPets.png",
