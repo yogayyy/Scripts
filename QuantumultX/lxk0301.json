@@ -1,9 +1,9 @@
 {
   "name": "LXK0301 task gallery",
   "description": "https://github.com/LXK9301/jd_scripts",
-  // 该订阅同步于lxk0301，我只是做了图标更换，注释的JS未适配图标，适配完成后放出；20200119
+  //该订阅同步于lxk0301，我只是做了图标更换，注释的JS未适配图标，适配完成后放出；20200119
   "task": [
-    # 长期活动
+    //长期活动
     //"5 6-18/6 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_fruit.js, tag=东东农场 , img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png",
     //"20 7-19/6 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_pet.js, tag=东东萌宠 , img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png",
     //"10 7-21/2 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_plantBean.js, tag=京东种豆得豆 , img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png",
@@ -38,7 +38,7 @@
     //"0 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_bookshop.js, tag=口袋书店, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
     //"5 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
     //"2 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_cash.js, tag=签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
-    # 短期活动
+    //短期活动
     "1 7 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nh.js, tag=京东年货节, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jdnh.png",
     "0 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian.js, tag=炸年兽, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png",
     "20 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nianCollect.js, tag=领爆竹, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nianCollect.png",
