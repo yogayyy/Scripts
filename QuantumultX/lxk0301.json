@@ -1,7 +1,7 @@
 {
   "name": "LXK0301 task gallery",
   "description": "https://github.com/LXK9301/jd_scripts",
-  //该订阅同步于lxk0301，我只是做了图标更换，注释的JS未适配图标，适配完成后放出；20200119
+//该订阅同步于lxk0301，我只是做了图标更换，注释的JS未适配图标，适配完成后放出；20200119
   "task": [
 #长期活动
     "15 1,7,9,12,18,21 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy.js, tag=宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png",
