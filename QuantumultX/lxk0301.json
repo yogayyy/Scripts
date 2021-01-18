@@ -7,7 +7,7 @@
     "1 0,8,12,16 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_reward.js , tag=宠汪汪积分兑换奖品 , img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_joy_reward.png",
     "0 0,6 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮 , img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_joy_steal.png",
     "15 10 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_run.js , tag=宠汪汪邀请助力与赛跑助力 , img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_joy_run.png",
-#短期活动
+
     "1 7 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nh.js, tag=京东年货节, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jdnh.png",
     "0 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian.js, tag=炸年兽, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png",
     "20 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nianCollect.js, tag=领爆竹, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nianCollect.png"
