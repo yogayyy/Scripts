@@ -6,8 +6,6 @@ on:
      - cron: '*/30 * * * *'
   watch:
     types: started
-  repository_dispatch:
-    types: bbb
     
 jobs:
   build:
@@ -22,7 +20,7 @@ jobs:
           node-version: 12.x
       - name: npm install
         run: |
-          npm Task/install
+          npm install
       - name: '运行 【步步宝】'
         run: |
           node Task/bbb.js
