@@ -4,8 +4,7 @@
   "author": "@shylocks",
   "icon": "https://avatars0.githubusercontent.com/u/5812638?s=460&u=7809808d21bd48a6c19c0dece533e92d4bb34151&v=4",
   "repo": "https://github.com/shylocks/Scripts/tree/main",
-  "apps": [
-    {
+  "apps": [{
       "id": "jd_wechat_sign",
       "name": "京东粉丝专享",
       "keys": ["JDWECHATEXCHANGE"],
@@ -20,10 +19,9 @@
           "placeholder": "",
           "desc": "1兑换京豆，0不兑换京豆"
         }],
-      "icons": [
-"https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_wechat_sign.jpg", "https://raw.githubusercontent.com/yogayyy/Scripts/master/Mini/shylocks/jd_wechat_sign.png"],
+      "icons": "https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_wechat_sign.jpg", "https://raw.githubusercontent.com/yogayyy/Scripts/master/Mini/shylocks/jd_wechat_sign.png",
       "script": "https://raw.githubusercontent.com/shylocks/Loon/main/jd_wechat_sign.js"
-    },
+     },
     {
       "id": "jd_gyec",
       "name": "工业品爱消除",
@@ -39,8 +37,7 @@
           "placeholder": "",
           "desc": "填写具体兑换商品的名称，默认为1888京豆"
         }],
-      "icons": [
-        "https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_gyec.jpg", https://raw.githubusercontent.com/yogayyy/Scripts/master/Mini/shylocks/jd_gyec.png"],
+      "icons": "https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_gyec.jpg", https://raw.githubusercontent.com/yogayyy/Scripts/master/Mini/shylocks/jd_gyec.png",
       "script": "https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js"
     },
     {
@@ -58,10 +55,7 @@
           "placeholder": "",
           "desc": "填写具体兑换商品的名称，默认为1888京豆"
         }],
-      "icons": [
-        "https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_xxl.jpg",
-        "https://raw.githubusercontent.com/yogayyy/Scripts/master/Mini/shylocks/jd_gyxxl_mini.png"
-      ],
+      "icons": "https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_xxl.jpg", "https://raw.githubusercontent.com/yogayyy/Scripts/master/Mini/shylocks/jd_gyxxl_mini.png",
       "script": "https://raw.githubusercontent.com/shylocks/Loon/main/jd_xxl.js"
     }
   ]
