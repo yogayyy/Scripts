@@ -1,7 +1,7 @@
-# 步步宝
 const $ = new Env('步步寶')
 let notice = ''
-let CookieVal = $.getdata('{"store":"appstore","tokenstr":"DB3BD285F93F4BCC3DFFD6AD8525138G1611049012","Connection":"keep-alive","Accept-Encoding":"gzip, deflate, br","version":"10","idfa":"00000000-0000-0000-0000-000000000000","User-Agent":"BBB/132 CFNetwork/1209 Darwin/20.2.0","platform":"2","imei":"7D13946F-986C-4A38-A726-F35203551D8C","Cookie":"PHPSESSID=otmtkd7esq48nu8q2e76d4lfs3","Host":"bububao.duoshoutuan.com","Accept-Language":"zh-cn","Accept":"*/*","Content-Length":"0"}')
+let CookieVal = ('{"store":"appstore","tokenstr":"DB3BD285F93F4BCC3DFFD6AD8525138G1611049012","Connection":"keep-alive","Accept-Encoding":"gzip, deflate, br","version":"10","idfa":"00000000-0000-0000-0000-000000000000","User-Agent":"BBB/132 CFNetwork/1209 Darwin/20.2.0","platform":"2","imei":"7D13946F-986C-4A38-A726-F35203551D8C","Cookie":"PHPSESSID=otmtkd7esq48nu8q2e76d4lfs3","Host":"bububao.duoshoutuan.com","Accept-Language":"zh-cn","Accept":"*/*","Content-Length":"0"}')
+//$.getdata('bbb_ck')
 
 if ($.isNode()) {
       console.log(`============ 脚本执行-国际标准时间(UTC)：${new Date().toLocaleString()}  =============\n`)
@@ -722,6 +722,8 @@ $.log('\n🔔開始領取助力視頻獎勵\n')
    })
   } 
 
+/*
+
 function getNewsId() {
 return new Promise((resolve, reject) => {
   let timestamp=new Date().getTime();
@@ -772,6 +774,7 @@ $.log('\n🔔開始閱讀新聞\n')
    })
   } 
 
+*/
 
 
 function luckyClick() {
