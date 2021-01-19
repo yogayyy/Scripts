@@ -22,7 +22,7 @@ jobs:
           node-version: 12.x
       - name: npm install
         run: |
-          npm install
+          npm Task/install
       - name: '运行 【步步宝】'
         run: |
           node Task/bbb.js
