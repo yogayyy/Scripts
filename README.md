@@ -1,8 +1,7 @@
-20210118 新增lxk0301炸年兽&领爆竹，年货节icon也已同步更新，新年活动成组；
-
-20210117更新日志：  
-1.shylocks大佬的iocn已整理成组，需要订阅的可以移步大佬的TG频道：https://t.me/joinchat/V0oxYENmx2PTlY1L  
-2.lxk0301大佬的脚本比较多，今天只整理了一下宠汪汪相关的脚本图标，其他的逐步更新；
+20210120  
+shylocks大佬的脚本图标全部制作完毕，请及时更新gallery订阅；  
+lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订阅里了，地址：https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301.json  
+自制gallery订阅更新同步图标制作进度，需要自取；
 
 ------------
 
@@ -23,6 +22,9 @@
 [4.宠汪汪赛跑助力](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_run.js "4.宠汪汪赛跑助力")  
 [5.宠汪汪单独喂食](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_feedPets.js "5.宠汪汪单独喂食")  
 [6.宠汪汪偷好友狗粮与积分](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_steal.js "4.宠汪汪偷好友狗粮与积分")  
+
+### 因为老大的脚本数量比较多，图标优化速度不是很快，优化完的脚本都会添加到我自己做的订阅里，有需要的可以订阅：  
+https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301.json  
 
 #### 老大其他Js对应的图标目前请先移步[58xinian](https://github.com/58xinian/icon "58xinian")大佬；  
 
