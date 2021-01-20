@@ -107,4 +107,4 @@ https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301.jso
 
 ------------
 # 效果展示区
-![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/example/shylocks%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/shylocks_example.jpg)
