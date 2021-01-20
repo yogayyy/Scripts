@@ -1,3 +1,4 @@
+# 更新日志  
 20210120  
 shylocks大佬的脚本图标全部制作完毕，请及时更新gallery订阅；  
 lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订阅里了，地址：https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301.json  
