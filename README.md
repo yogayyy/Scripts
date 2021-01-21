@@ -4,7 +4,6 @@ shylocks大佬的脚本图标全部制作完毕，请及时更新gallery订阅�
 lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订阅里了，地址：https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301.json  
 自制gallery订阅更新同步图标制作进度，需要自取；
 
-------------
 
 本项目针对个人使用的一些脚本做了圈X的icon汇总，仅供参考。  
 风格尽量保持简洁，策略图标请参考[Koolson](https://github.com/Koolson/Qure "Koolson")的项目，大佬已经做的很好了。  
@@ -14,7 +13,6 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 - [ ] 补充对应的透明版；  
 - [ ] 补充图标预览图；  
 
-------------
 
 # [lxk0301](https://github.com/LXK9301/jd_scripts/tree/master "lxk0301")  
 #### 因为老大的脚本数量比较多，图标优化速度不是很快，已经做完的都做了标记，优化完的脚本都会添加到我自己做的订阅里，有需要的可以订阅：https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301.json
@@ -45,7 +43,6 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 
 #### 示例：
 
-------------
 
 ### 通知/兑换/工具类
 <details>
@@ -62,12 +59,10 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 
 #### 示例：
 
-------------
 
 ### 短期活动
 > 暂无，与节日活动重复；
 
-------------
 
 ### 游戏类-----------手绘风格
 <details>
@@ -97,7 +92,6 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 
 #### 示例：
 
-------------
 
 ### 节日活动——春节 :white_check_mark:
 <details>
@@ -113,7 +107,6 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 
 #### 示例：  
 
-------------
 
 |脚本名|图标名|备注|
 | :------------: | :------------: | :------------: |
