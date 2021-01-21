@@ -186,4 +186,6 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 
 ------------
 # 效果展示区
-![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/shylocks_example.jpg)
+![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/shylocks_example.jpg)  
+![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/lxk0301_example.jpg)
+
