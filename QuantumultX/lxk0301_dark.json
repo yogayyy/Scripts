@@ -5,7 +5,7 @@
     "5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_bean_sign_dark.png",
     "5 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jx_sign.js, tag=京喜签到, img-url= https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jx_sign_dark.png",
     "5 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_club_lottery.js , tag=摇京豆 , img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_club_lottery_dark.png",
-    "2 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_cash.js, tag=领现金, img-url=img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_cash_dark.png",
+    "2 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_cash.js, tag=领现金, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_cash_dark.png",
     "10 6 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_bean_home.js, tag=领京豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_bean_home_dark.png",
     "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=抽奖机, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_lotteryMachine_dark.png",
     "15 */5 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_moneyTree.js , tag=摇钱树 , img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_moneyTree_dark.png",
