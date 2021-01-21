@@ -20,24 +20,23 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 ### 日常活动 :white_check_mark:  
 <details>
 <summary>点击展开查看详情</summary>
-> 
-1.京东签到 √  
-2.京喜签到 √  
-3.领京豆额外奖励&抢京豆 √  
-4.签到领现金 √  
-5.京东汽车签到 √  
-6.摇京豆 √  
-7.京东赚赚 √  
-8.京东快递签到 √  
-9.京东直播 √  
-10.京东抽奖机 √  
-11.摇钱树 √  
-12.点点券 √  
-13.京东排行榜签到得京豆 √  
-14.全民开红包 √  
-15.进店领豆 √  
-16.天天加速 √  
-17.十元街 √  
+1.京东签到:white_check_mark:  
+2.京喜签到:white_check_mark:  
+3.领京豆额外奖励&抢京豆:white_check_mark:  
+4.签到领现金:white_check_mark:  
+5.京东汽车签到:white_check_mark:  
+6.摇京豆:white_check_mark:  
+7.京东赚赚:white_check_mark:  
+8.京东快递签到:white_check_mark:  
+9.京东直播:white_check_mark:  
+10.京东抽奖机 :white_check_mark:
+11.摇钱树:white_check_mark:  
+12.点点券:white_check_mark:  
+13.京东排行榜签到得京豆:white_check_mark:  
+14.全民开红包:white_check_mark:  
+15.进店领豆:white_check_mark:  
+16.天天加速:white_check_mark:  
+17.十元街:white_check_mark:  
 </details>
 
 #### 示例：
@@ -46,12 +45,16 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 ### 通知/兑换/工具类 :x:
 <details>
 <summary>点击展开查看详情</summary>
-> 
 京豆变动通知  
+  
 东东超市兑换奖品  
+
 京东汽车赛点兑换京豆  
+
 获取所有互助码  
+
 注销京东会员卡  
+
 取关京东店铺和商品  
 </details>
 
@@ -65,25 +68,42 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 ### 游戏类 :x:
 <details>
 <summary>点击展开查看详情</summary>
-> 
 口袋书店  
+  
 东东超市  
+
 疯狂的JOY挂机  
+
 疯狂的JOY日常任务  
+
 天天提鹅  
+
 京喜工厂  
+
 东东农场  
-宠汪汪 √  
-宠汪汪单独喂食 √  
-宠汪汪兑换奖品 √  
-宠汪汪赛跑助力 √  
+
+宠汪汪 :white_check_mark:  
+
+宠汪汪单独喂食 :white_check_mark:  
+
+宠汪汪兑换奖品 :white_check_mark:  
+
+宠汪汪赛跑助力 :white_check_mark:  
+
 宠汪汪强制为好友助力  
-宠汪汪偷好友狗粮与积分 √  
+
+宠汪汪偷好友狗粮与积分 :white_check_mark:  
+
 东东工厂  
+
 京喜农场  
+
 东东萌宠  
+
 金融养猪  
+
 种豆得豆  
+
 东东小窝  
 </details>
 
@@ -93,12 +113,11 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 ### 节日活动——春节 :white_check_mark:
 <details>
 <summary>点击展开查看详情</summary>
-> 
-炸年兽 √  
-炸年兽领鞭炮 √  
-神仙书院 √  
-年货节 √  
-集鞭炮 √  
+炸年兽 :white_check_mark:  
+炸年兽领鞭炮 :white_check_mark:  
+神仙书院 :white_check_mark:  
+年货节 :white_check_mark:  
+集鞭炮 :white_check_mark:  
 </details>
 
 #### 示例：  
