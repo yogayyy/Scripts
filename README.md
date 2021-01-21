@@ -17,17 +17,103 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 ------------
 
 # [lxk0301](https://github.com/LXK9301/jd_scripts/tree/master "lxk0301")  
-[1.宠汪汪](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy.js "1.宠汪汪")  
-[2.宠汪汪强制为好友助力](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_help.js "2.宠汪汪强制为好友助力")  
-[3.宠汪汪兑换奖品](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_reward.js "3.宠汪汪兑换奖品")  
-[4.宠汪汪赛跑助力](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_run.js "4.宠汪汪赛跑助力")  
-[5.宠汪汪单独喂食](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_feedPets.js "5.宠汪汪单独喂食")  
-[6.宠汪汪偷好友狗粮与积分](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_steal.js "4.宠汪汪偷好友狗粮与积分")  
+#### 因为老大的脚本数量比较多，图标优化速度不是很快，已经做完的都做了标记，优化完的脚本都会添加到我自己做的订阅里，有需要的可以订阅：https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301.json
 
-### 因为老大的脚本数量比较多，图标优化速度不是很快，优化完的脚本都会添加到我自己做的订阅里，有需要的可以订阅：  
-https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301.json  
+### 日常活动 :white_check_mark:
+<details>
+<summary>点击展开查看详情</summary>
+<pre><code>
+1.京东签到 √
+2.京喜签到 √
+3.领京豆额外奖励&抢京豆 √
+4.签到领现金 √
+5.京东汽车签到 √
+6.摇京豆 √
+7.京东赚赚 √
+8.京东快递签到 √
+9.京东直播 √
+10.京东抽奖机 √
+11.摇钱树 √
+12.点点券 √
+13.京东排行榜签到得京豆 √
+14.全民开红包 √
+15.进店领豆 √
+16.天天加速 √
+17.十元街 √
+</code></pre>
+</details>
 
-#### 老大其他Js对应的图标目前请先移步[58xinian](https://github.com/58xinian/icon "58xinian")大佬；  
+#### 示例：
+
+------------
+
+### 通知/兑换/工具类
+<details>
+<summary>点击展开查看详情</summary>
+<pre><code>
+京豆变动通知
+东东超市兑换奖品
+京东汽车赛点兑换京豆
+获取所有互助码
+注销京东会员卡
+取关京东店铺和商品
+</code></pre>
+</details>
+
+#### 示例：
+
+------------
+
+### 短期活动
+> 暂无，与节日活动重复；
+
+------------
+
+### 游戏类-----------手绘风格
+<details>
+<summary>点击展开查看详情</summary>
+<pre><code>
+口袋书店
+东东超市
+疯狂的JOY挂机
+疯狂的JOY日常任务
+天天提鹅
+京喜工厂
+东东农场
+宠汪汪
+宠汪汪单独喂食
+宠汪汪兑换奖品
+宠汪汪赛跑助力
+宠汪汪强制为好友助力
+宠汪汪偷好友狗粮与积分
+东东工厂
+京喜农场
+东东萌宠
+金融养猪
+种豆得豆
+东东小窝
+</code></pre>
+</details>
+
+#### 示例：
+
+------------
+
+### 节日活动——春节 :white_check_mark:
+<details>
+<summary>点击展开查看详情</summary>
+<pre><code>
+炸年兽 √
+炸年兽领鞭炮 √
+神仙书院 √
+年货节 √
+集鞭炮 √
+</code></pre>
+</details>
+
+#### 示例：  
+
+------------
 
 |脚本名|图标名|备注|
 | :------------: | :------------: | :------------: |
