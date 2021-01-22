@@ -3,7 +3,7 @@
   "description": "该订阅同步于lxk0301，只是重新匹配了图标；https://github.com/LXK9301/jd_scripts",
   "task": [
     "5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/dark/jd_bean_sign_dark.png",
-    "5 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jx_sign.js, tag=京喜签到, img-url= https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/dark/jx_sign_dark.png",
+    "5 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/dark/jx_sign_dark.png",
     "5 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_club_lottery.js , tag=摇京豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/dark/jd_club_lottery_dark.png",
     "2 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_cash.js, tag=领现金, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/dark/jd_cash_dark.png",
     "10 6 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_bean_home.js, tag=领京豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/dark/jd_bean_home_dark.png",
@@ -19,7 +19,6 @@
     "1 1 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_redPacket.js , tag=全民开红包, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_redPacket_dark.png",
     "14 11 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_jdzz.js, tag=赚赚小程序, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/dark/jd_jdzz_Dark.png",
     "11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_rankingList_dark.png",
-
     "15 */5 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_moneyTree.js , tag=摇钱树, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_moneyTree_dark.png",
     "15 0-23/2 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy.js, tag=宠汪汪, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_joy_dark.png",
     "15 0-23/1 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_feedPets.js, tag=宠汪汪喂食, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_joy_feedPets_dark.png",
@@ -43,20 +42,18 @@
     "10 7 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_crazy_joy.js, tag=CrazyJoy, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_crazy_joy_dark.png",
     "11 8,10,14,16 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_crazyJoy.js, tag=CarzyJoy挂机, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_crazy_joy_coin_dark.png",
     "1 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_family.js, tag=幸福家庭号, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_family_dark.png",
-
     "2 9 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_bean_change.js, tag=京豆变动通知, img-url=hhttps://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_bean_change.png",
     "20 13 * * 6 https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_get_share_code.png",
     "55 23 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_unbind.js, tag=注销会员卡, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_unbind.png",
     "55 23 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_unsubscribe.js, tag=取关店铺/商品, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_unsubscribe.png",
-    "15 17 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/xmSports.png"
-
+    "15 17 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/xmSports.png",
     "1 7 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nh.js, tag=年货节, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_nh_dark.png",
     "10 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian.js, tag=炸年兽, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_nian_dark.png",
     "0 9 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_ar.js, tag=炸年兽AR, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_nian_ar_dark.png",
     "30 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_sign.js, tag=炸年兽签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_nian_sign_dark.png",
     "50 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_wechat.js, tag=炸年兽小程序, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_nian_wechat_dark.png",
     "50 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nianCollect.js, tag=炸年兽爆竹收集, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_nianCollect_dark.png",
-    "0 8 * * *  https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_immortal.js, tag=京东神仙书院, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_immortal_dark.png"
+    "0 8 * * *  https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_immortal.js, tag=京东神仙书院, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_immortal_dark.png",
     "10 8,21 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_firecrackers.js, tag=集鞭炮赢京豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_firecrackers_dark.png"
   ]
 }
