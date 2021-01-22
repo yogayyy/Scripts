@@ -67,7 +67,7 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 <details>
 <summary>点击展开查看详情</summary>
 
-> 1.口袋书店  
+> 1.口袋书店:white_check_mark:  
 2.东东超市:white_check_mark:  
 3.东东超市兑换奖品:white_check_mark:  
 4.疯狂的JOY挂机:white_check_mark:  
