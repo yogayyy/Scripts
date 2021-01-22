@@ -43,7 +43,7 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 </details>
 
 
-### 通知/兑换/工具类 :x:
+### 通知/兑换/工具类:white_check_mark:  
 <details>
 <summary>点击展开查看详情</summary>
 
@@ -59,7 +59,7 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 > 暂无，与节日活动重复；
 
 
-### 游戏类 :x:
+### 游戏类:white_check_mark:  
 <details>
 <summary>点击展开查看详情</summary>
 
