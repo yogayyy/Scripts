@@ -1,9 +1,13 @@
 # 更新日志  
-20210120  
-shylocks大佬的脚本图标全部制作完毕，请及时更新gallery订阅；  
-lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订阅里了，地址：https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301.json  
-自制gallery订阅更新同步图标制作进度，需要自取；
+20210122  
+shylocks大佬的脚本图标全部制作完毕，请及时更新大佬的gallery订阅；  
+lxk0301大佬的图标全部制作完毕，做了两个版本：Light&Dark，按需自取：  
+> [Light版本](https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301_light.json "Light版本")  
+[Dark版本](https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301_dark.json "Dark版本")
 
+### ↓↓↓效果图查看文末↓↓↓
+
+------------
 
 本项目针对个人使用的一些脚本做了圈X的icon汇总，仅供参考。  
 风格尽量保持简洁，策略图标请参考[Koolson](https://github.com/Koolson/Qure "Koolson")的项目，大佬已经做的很好了。  
@@ -181,7 +185,7 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 笑谱透明版图标引用链接为：https://raw.githubusercontent.com/yogayyy/Scripts/main/Mini/ziye12/iboxpay.png  
 
 ------------
-# 效果展示区
+<span id="效果展示区"># 效果展示区</span>
 ![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/shylocks_example.jpg)  
 ![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/lxk0301_example.jpg)
 
