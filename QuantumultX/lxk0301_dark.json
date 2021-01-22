@@ -1,5 +1,5 @@
 {
-  "name": "LXK0301-dark",
+  "name": "LXK0301-DARK",
   "description": "该订阅同步于lxk0301，只是重新匹配了图标；https://github.com/LXK9301/jd_scripts",
   "task": [
     "5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_bean_sign_dark.png",
