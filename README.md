@@ -31,12 +31,12 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 8.京东快递签到:white_check_mark:  
 9.京东直播:white_check_mark:  
 10.京东抽奖机 :white_check_mark:
-11.摇钱树:white_check_mark:  
-12.点点券:white_check_mark:  
-13.京东排行榜签到得京豆:white_check_mark:  
-14.全民开红包:white_check_mark:  
-15.进店领豆:white_check_mark:  
-16.天天加速:white_check_mark:  
+11.天天提鹅:white_check_mark:  
+12.金融养猪:white_check_mark:  
+13.点点券:white_check_mark:  
+14.京东排行榜签到得京豆:white_check_mark:  
+15.全民开红包:white_check_mark:  
+16.进店领豆:white_check_mark:  
 17.十元街:white_check_mark:  
 
 </details>
@@ -49,7 +49,7 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 <summary>点击展开查看详情</summary>
 
 > 1.京豆变动通知  
-2.东东超市兑换奖品  
+2.东东超市兑换奖品:white_check_mark:  
 3.京东汽车赛点兑换京豆  
 4.获取所有互助码  
 5.注销京东会员卡  
@@ -69,24 +69,24 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 <summary>点击展开查看详情</summary>
 
 > 1.口袋书店  
-2.东东超市  
-3.疯狂的JOY挂机  
-4.疯狂的JOY日常任务  
-5.天天提鹅  
-6.京喜工厂  
-7.东东农场  
+2.东东超市:white_check_mark:  
+3.疯狂的JOY挂机:white_check_mark:  
+4.疯狂的JOY日常任务:white_check_mark:  
+5.天天加速:white_check_mark:  
+6.京喜工厂:white_check_mark:  
+7.东东农场:white_check_mark:  
 8.宠汪汪  
 9.宠汪汪单独喂食  
 10.宠汪汪兑换奖品  
 11.宠汪汪赛跑助力  
 12.宠汪汪强制为好友助力  
 13.宠汪汪偷好友狗粮与积分  
-14.东东工厂  
-15.京喜农场  
-16.东东萌宠  
-17.金融养猪  
-18.种豆得豆  
-19.东东小窝
+14.东东工厂:white_check_mark:  
+15.京喜农场:white_check_mark:  
+16.东东萌宠:white_check_mark:  
+18.种豆得豆:white_check_mark:  
+19.东东小窝:white_check_mark:  
+19.摇钱树:white_check_mark:  
 
 </details>
 
@@ -98,10 +98,13 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 <summary>点击展开查看详情</summary>
 
 > 1.炸年兽 :white_check_mark:  
-2.炸年兽领鞭炮 :white_check_mark:  
-3.神仙书院 :white_check_mark:  
-4.年货节 :white_check_mark:  
-5.集鞭炮 :white_check_mark:  
+2.炸年兽-AR :white_check_mark:  
+3.炸年兽-签到 :white_check_mark:  
+4.炸年兽-小程序 :white_check_mark:  
+5.炸年兽鞭炮收集 :white_check_mark:  
+6.神仙书院 :white_check_mark:  
+7.年货节 :white_check_mark:  
+8.集鞭炮兑京豆 :white_check_mark:  
 
 </details>
 
