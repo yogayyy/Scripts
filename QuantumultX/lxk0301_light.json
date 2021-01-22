@@ -25,7 +25,7 @@
     "1 0,8,12,16 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_reward.js , tag=宠汪汪兑换, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_joy_reward_light.png",
     "15 10 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_run.js , tag=宠汪汪助力, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_joy_run_light.png",
     "0 0-10/2 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_steal.js, tag=宠汪汪偷狗粮, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_joy_steal_light.png",
-    "10 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_daily_egg_lighT.png",
+    "10 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_daily_egg_light.png",
     "12 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_pigPet.js, tag=金融养猪, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_pigPet_light.png",
     "8 */3 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_speed.js , tag=天天加速, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Light/jd_speed_light.png",
     "10 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_dreamFactory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Light/jd_dreamFactory_light.png",
