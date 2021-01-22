@@ -26,18 +26,19 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 3.领京豆额外奖励&抢京豆:white_check_mark:  
 4.签到领现金:white_check_mark:  
 5.京东汽车签到:white_check_mark:  
-6.摇京豆:white_check_mark:  
-7.京东赚赚:white_check_mark:  
-8.京东快递签到:white_check_mark:  
-9.京东直播:white_check_mark:  
-10.京东抽奖机 :white_check_mark:
-11.天天提鹅:white_check_mark:  
-12.金融养猪:white_check_mark:  
-13.点点券:white_check_mark:  
-14.京东排行榜签到得京豆:white_check_mark:  
-15.全民开红包:white_check_mark:  
-16.进店领豆:white_check_mark:  
-17.十元街:white_check_mark:  
+6.京东汽车赛点兑换京豆:white_check_mark:  
+7.摇京豆:white_check_mark:  
+8.京东赚赚:white_check_mark:  
+9.京东快递签到:white_check_mark:  
+10.京东直播:white_check_mark:  
+11.京东抽奖机（Tingxiao Yang） :white_check_mark:  
+12.天天提鹅:white_check_mark:  
+13.金融养猪:white_check_mark:  
+14.点点券:white_check_mark:  
+15.京东排行榜签到得京豆（Tingxiao Yang）:white_check_mark:  
+16.全民开红包:white_check_mark:  
+17.进店领豆:white_check_mark:  
+18.十元街:white_check_mark:  
 
 </details>
 
@@ -48,12 +49,10 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 <details>
 <summary>点击展开查看详情</summary>
 
-> 1.京豆变动通知  
-2.东东超市兑换奖品:white_check_mark:  
-3.京东汽车赛点兑换京豆  
-4.获取所有互助码  
-5.注销京东会员卡  
-6.取关京东店铺和商品  
+> 1.京豆变动通知:white_check_mark:  
+4.获取所有互助码:white_check_mark:  
+5.注销京东会员卡:white_check_mark:  
+6.取关京东店铺和商品:white_check_mark:  
 
 </details>
 
@@ -70,23 +69,25 @@ lxk0301大佬的图标正在重置中，制作完的都放到自制的gallery订
 
 > 1.口袋书店  
 2.东东超市:white_check_mark:  
-3.疯狂的JOY挂机:white_check_mark:  
-4.疯狂的JOY日常任务:white_check_mark:  
-5.天天加速:white_check_mark:  
-6.京喜工厂:white_check_mark:  
-7.东东农场:white_check_mark:  
-8.宠汪汪  
-9.宠汪汪单独喂食  
-10.宠汪汪兑换奖品  
-11.宠汪汪赛跑助力  
-12.宠汪汪强制为好友助力  
-13.宠汪汪偷好友狗粮与积分  
-14.东东工厂:white_check_mark:  
-15.京喜农场:white_check_mark:  
-16.东东萌宠:white_check_mark:  
+3.东东超市兑换奖品:white_check_mark:  
+4.疯狂的JOY挂机:white_check_mark:  
+5.疯狂的JOY日常任务:white_check_mark:  
+6.天天加速:white_check_mark:  
+7.京喜工厂:white_check_mark:  
+8.东东农场:white_check_mark:  
+9.宠汪汪:white_check_mark:  
+10.宠汪汪单独喂食:white_check_mark:  
+11.宠汪汪兑换奖品:white_check_mark:  
+12.宠汪汪赛跑助力:white_check_mark:  
+13.宠汪汪强制为好友助力:white_check_mark:  
+14.宠汪汪偷好友狗粮与积分:white_check_mark:  
+15.东东工厂:white_check_mark:  
+16.京喜农场:white_check_mark:  
+17.东东萌宠:white_check_mark:  
 18.种豆得豆:white_check_mark:  
 19.东东小窝:white_check_mark:  
-19.摇钱树:white_check_mark:  
+20.摇钱树:white_check_mark:  
+21.财富岛（MoPoQAQ）:white_check_mark:  
 
 </details>
 
