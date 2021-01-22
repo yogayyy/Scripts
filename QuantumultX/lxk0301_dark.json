@@ -17,7 +17,7 @@
     "0 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_car.js, tag=汽车签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_car_dark.png",
     "0 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_car_exchange.js, tag=汽车兑换, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_car_exchange_dark.png",
     "1 1 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_redPacket.js , tag=全民开红包, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_redPacket_dark.png",
-    "14 11 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_jdzz.js, tag=赚赚小程序, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_jdzz_Dark.png",
+    "14 11 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_jdzz.js, tag=赚赚小程序, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_jdzz_dark.png",
     "11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_rankingList_dark.png",
     "15 */5 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_moneyTree.js , tag=摇钱树, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_moneyTree_dark.png",
     "15 0-23/2 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy.js, tag=宠汪汪, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/lxk0301/Dark/jd_joy_dark.png",
