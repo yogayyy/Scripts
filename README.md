@@ -186,6 +186,5 @@ lxk0301大佬的图标全部制作完毕，做了两个版本：Light&Dark，按
 
 ------------
 <span id="效果展示区"># 效果展示区</span>
-![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/shylocks_example.jpg)  
-![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/lxk0301_example.jpg)
+![avatar](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/example20210123.PNG)  
 
