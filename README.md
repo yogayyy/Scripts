@@ -3,8 +3,8 @@
 TG频道：https://t.me/joinchat/UsIprIBDGUffKGtU
 
 # 更新日志  
-20210122  
-shylocks大佬的脚本图标全部制作完毕，请及时更新大佬的gallery订阅；  
+20210125  
+shylocks大佬的脚本图标存活活动图标重置，请及时更新大佬的gallery订阅；暂时风格定型，短期不再优化；  
 lxk0301大佬的图标全部制作完毕，做了两个版本：Light&Dark，按需自取：  
 > [Light版本](https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301_light.json "Light版本")  
 [Dark版本](https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301_dark.json "Dark版本")
