@@ -1,9 +1,9 @@
 ![整体预览](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/readme_example.jpg)
 
-TG频道：https://t.me/joinchat/UsIprIBDGUffKGtU
+# TG频道：https://t.me/joinchat/UsIprIBDGUffKGtU
 
 # 更新日志  
-20210125  
+20210126  
 shylocks大佬的脚本图标存活活动图标重置，请及时更新大佬的gallery订阅；暂时风格定型，短期不再优化；  
 lxk0301大佬的图标全部制作完毕，做了两个版本：Light&Dark，按需自取：  
 > [Light版本](https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/lxk0301_light.json "Light版本")  
@@ -15,9 +15,8 @@ lxk0301大佬的图标全部制作完毕，做了两个版本：Light&Dark，按
 风格尽量保持简洁，策略图标请参考[Koolson](https://github.com/Koolson/Qure "Koolson")的项目，大佬已经做的很好了。  
 未完待续...  
 
-- [ ] 继续完善lxk0301大佬的脚本图标；
-- [ ] 补充对应的透明版；  
-- [ ] 补充图标预览图；  
+- [ ] 自用配置分享；
+- [ ] 签到类脚本汇总；    
 
 
 # [lxk0301](https://github.com/LXK9301/jd_scripts/tree/master "lxk0301")  
