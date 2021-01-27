@@ -53,7 +53,8 @@
     "30 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_sign.js, tag=炸年兽签到, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_nian_sign_dark.png",
     "50 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian_wechat.js, tag=炸年兽小程序, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_nian_wechat_dark.png",
     "50 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nianCollect.js, tag=炸年兽爆竹收集, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_nianCollect_dark.png",
-    "0 8 * * *  https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_immortal.js, tag=京东神仙书院, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_immortal_dark.png",
+    "0 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_immortal.js, tag=神仙书院, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_immortal_dark.png",
+    "20 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_immortal_answer.js, tag=神仙书院答题, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_immortal_answer_dark.png",
     "10 8,21 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_firecrackers.js, tag=集鞭炮赢京豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/Dark/jd_firecrackers_dark.png"
   ]
 }
