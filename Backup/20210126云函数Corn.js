@@ -15,7 +15,7 @@ jd_bean_sign&jx_sign&jd_club_lottery&jd_bean_home&jd_necklace&jd_syj&jd_shop
 
 check-2
 0 20 0 * * * *
-jd_Redpocket&jd_cash&jd_kd&jd_car&jd_rankingList&jd_jdzz&jd_small_home&jd_crazy_joy&jd_live
+jd_redPacket&jd_cash&jd_kd&jd_car&jd_rankingList&jd_jdzz&jd_small_home&jd_crazy_joy&jd_live
 全民开红包，签到领现金，快递签到，汽车签到，排行榜，赚赚，东东小窝，疯狂JOY任务
 
 review（复查）也可手机执行
