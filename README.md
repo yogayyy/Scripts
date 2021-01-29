@@ -1,5 +1,5 @@
-![整体预览](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/readme_example.jpg)
 ![节点分区](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/flag_cover.jpg)
+![整体预览](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/readme_example.jpg)
 
 
 ### TG频道：https://t.me/joinchat/UsIprIBDGUffKGtU
