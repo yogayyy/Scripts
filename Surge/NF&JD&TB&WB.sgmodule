@@ -1,12 +1,13 @@
 #!name=NF&JD&TB&WB
 #!desc=Netflix评分&淘宝、京东历史价格&微博去广告
-#更新时间：2021年2月8日
-#原地址：https://github.com/yichahucha/surge/blob/master/sg_sub.sgmodule
 
 [MITM]
 hostname = %INSERT% api.weibo.cn,mapi.weibo.com,*.uve.weibo.com,trade-acs.m.taobao.com,api.m.jd.com,ios.prod.ftl.netflix.com
 
 [Script]
+#更新时间：2021年2月8日
+#原地址：https://github.com/yichahucha/surge/blob/master/sg_sub.sgmodule
+
 nf_rating.js = type=http-request,pattern=^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js
 
 nf_rating.js = type=http-response,requires-body=1,pattern=^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js
