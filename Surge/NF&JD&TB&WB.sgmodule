@@ -1,4 +1,7 @@
 #!name=NF&JD&TB&WB
+#!desc=Netflix评分&淘宝、京东历史价格&微博去广告
+#更新时间：2021年2月8日
+#原地址：https://github.com/yichahucha/surge/blob/master/sg_sub.sgmodule
 
 [MITM]
 hostname = %INSERT% api.weibo.cn,mapi.weibo.com,*.uve.weibo.com,trade-acs.m.taobao.com,api.m.jd.com,ios.prod.ftl.netflix.com
