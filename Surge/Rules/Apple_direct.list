@@ -1,0 +1,87 @@
+#
+# 参考自https://blog.royli.dev/2019/better-proxy-rules-for-apple-services
+# 适合用户：国区&外区多个Apple ID频繁切换用户
+#
+
+# Apple 直连
+USER-AGENT,*com.apple.mobileme.fmip1,DIRECT
+# Weather
+USER-AGENT,*WeatherFoundation*,DIRECT
+DOMAIN,weather-data.apple.com,DIRECT
+# Maps
+USER-AGENT,%E5%9C%B0%E5%9B%BE*,DIRECT
+# Settings
+USER-AGENT,%E8%AE%BE%E7%BD%AE*,DIRECT
+USER-AGENT,com.apple.geod*,DIRECT
+USER-AGENT,com.apple.Maps,DIRECT
+USER-AGENT,FindMyFriends*,DIRECT
+USER-AGENT,FindMyiPhone*,DIRECT
+USER-AGENT,FMDClient*,DIRECT
+USER-AGENT,FMFD*,DIRECT
+USER-AGENT,fmflocatord*,DIRECT
+USER-AGENT,geod*,DIRECT
+USER-AGENT,locationd*,DIRECT
+USER-AGENT,Maps*,DIRECT
+
+#
+# Apple Global CDN
+# CDN资源类：App 实体文件、Apple Music 音乐文件
+#
+# iOS App Store
+DOMAIN,iosapps.itunes.apple.com,DIRECT
+# Mac App Store
+DOMAIN,osxapps.itunes.apple.com,DIRECT
+DOMAIN,oscdn.apple.com,DIRECT
+# Update
+DOMAIN,supportdownload.apple.com,DIRECT
+# Update
+DOMAIN,appldnld.apple.com,DIRECT
+# Update
+DOMAIN,swcdn.apple.com,DIRECT
+DOMAIN,apptrailers.itunes.apple.com,DIRECT
+DOMAIN,updates-http.cdn-apple.com,DIRECT
+DOMAIN,updates.cdn-apple.com,DIRECT
+# App Store & iTunes Images
+DOMAIN-SUFFIX,mzstatic.com,DIRECT
+# Mac App Store
+PROCESS-NAME,storedownloadd,DIRECT
+# iOS App Store
+USER-AGENT,com.apple.appstored*,DIRECT
+# Apple Music Streaming
+DOMAIN,aod.itunes.apple.com,DIRECT
+DOMAIN,mvod.itunes.apple.com,DIRECT
+DOMAIN,streamingaudio.itunes.apple.com,DIRECT
+# Other
+DOMAIN,download.developer.apple.com,DIRECT
+DOMAIN,downloaddispatch.itunes.apple.com,DIRECT
+DOMAIN,app-site-association.cdn-apple.com,DIRECT
+
+#
+# Apple 其他直连
+#
+# Spotlight
+DOMAIN,api.smoot.apple.com,DIRECT
+DOMAIN,api.smoot.apple.cn,DIRECT
+# Hotspot captive
+DOMAIN,captive.apple.com,DIRECT
+# Apple Pay
+DOMAIN,smp-device-content.apple.com,DIRECT
+DOMAIN-KEYWORD,smp-device,DIRECT
+USER-AGENT,passd*,DIRECT
+USER-AGENT,Wallet*,DIRECT
+# locationd
+DOMAIN,gs-loc.apple.com,DIRECT
+DOMAIN-SUFFIX,ls.apple.com.akadns.net,DIRECT
+DOMAIN-SUFFIX,ls.apple.com.edgesuite.net,DIRECT
+# Reserve
+DOMAIN,reserve-prime.apple.com,DIRECT
+# Push
+DOMAIN-KEYWORD,push-apple.com.akadns.net,DIRECT
+DOMAIN-SUFFIX,push.apple.com.akadns.net,DIRECT
+DOMAIN-SUFFIX,push.apple.com,DIRECT
+# GeoServices.framework
+DOMAIN-SUFFIX,ls.apple.com,DIRECT
+# Asset Cache Locator Service
+DOMAIN-SUFFIX,lcdn-locator.apple.com,DIRECT
+# Caching Server Registration
+DOMAIN-SUFFIX,lcdn-registration.apple.com,DIRECT
