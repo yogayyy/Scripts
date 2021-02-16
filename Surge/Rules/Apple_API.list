@@ -1,0 +1,19 @@
+  
+#
+# 参考自https://blog.royli.dev/2019/better-proxy-rules-for-apple-services
+# 适合用户：国区&外区多个Apple ID频繁切换用户
+# 该规则列表建议添加direct&你Apple id区域的节点，连接时根据需求选择
+#
+DOMAIN,guzzoni.apple.com
+DOMAIN,apps.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,api-edge.apps.apple.com
+DOMAIN,api.apps.apple.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,se.itunes.apple.com
+DOMAIN,se-edge.itunes.apple.com
+DOMAIN,su.itunes.apple.com
+DOMAIN,upp.itunes.apple.com
+DOMAIN,beta.music.apple.com
+DOMAIN-KEYWORD,buy.itunes.apple.com
