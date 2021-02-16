@@ -22,6 +22,12 @@ USER-AGENT,fmflocatord*,DIRECT
 USER-AGENT,geod*,DIRECT
 USER-AGENT,locationd*,DIRECT
 USER-AGENT,Maps*,DIRECT
+# iCloud（如果用外区账号的iCloud服务，以下规则请选择Apple id所在区域节点）
+DOMAIN-SUFFIX,icloud-content.com,DIRECT
+DOMAIN-SUFFIX,me.com,DIRECT
+DOMAIN-SUFFIX,apple.com,DIRECT
+DOMAIN-SUFFIX,icloud.com,DIRECT
+DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
 
 #
 # Apple Global CDN
