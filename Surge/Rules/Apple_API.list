@@ -17,3 +17,18 @@ DOMAIN,su.itunes.apple.com
 DOMAIN,upp.itunes.apple.com
 DOMAIN,beta.music.apple.com
 DOMAIN-KEYWORD,buy.itunes.apple.com
+
+# iMessage
+DOMAIN-SUFFIX,ess.apple.com
+# Apple Music
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,sonos-music.apple.com
+# Configuration
+DOMAIN,configuration.apple.com
+# Others
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,apple
+DOMAIN,weather-analytics-events.apple.com
