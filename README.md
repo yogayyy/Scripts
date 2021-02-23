@@ -1,8 +1,8 @@
-## 因最新版Quantumult X的UI太丑，已经暂时弃用；  
-## 此项目暂时停止更新；  
-## 目前已回归Surge，期待年后Loon的UI调整！  
-## 新年快乐🎉
-
+~~因最新版Quantumult X的UI太丑，已经暂时弃用；~~  
+~~#此项目暂时停止更新；~~  
+~~目前已回归Surge，期待年后Loon的UI调整！~~  
+### 20200223 更新日志  
+### 更新了一些自用的icon，还比较适合目前的六边形........有需要的去Test目录下翻吧。 
 
 ![节点分区](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/flag_cover.jpg)
 ![整体预览](https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/example/readme_example.jpg)
