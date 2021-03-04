@@ -403,7 +403,7 @@ function mapWind(speed, direction) {
 function mapSkycon(skycon) {
   const map = {
     CLEAR_DAY: [
-      "☀️ 日间晴朗",
+      "https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/Weather/Set_1/tornado.png 日间晴朗",
       "https://raw.githubusercontent.com/58xinian/icon/master/Weather/CLEAR_DAY.gif",
     ],
     CLEAR_NIGHT: [
