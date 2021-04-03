@@ -1,0 +1,10 @@
+#!name=Termius
+#!desc=Termius Pro Unlock
+
+[Script]
+# Termius unlocks local pro v
+# > (From the author @Maasea)
+Termius_Unlock = type=http-response,pattern=https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/,requires-body=1,max-size=0,script-path= https://raw.githubusercontent.com/yogayyy/Scripts/master/QuantumultX/Scripts/Termius.js
+
+[MITM]
+hostname = %APPEND% api.termius.com
