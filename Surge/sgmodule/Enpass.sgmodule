@@ -1,6 +1,5 @@
-#!name=Enpass
-#!desc=Enpass Pro Unlock
-# 模块要一直保持打开状态
+#!name=Enpass Pro Unlock
+#!desc=模块要一直保持打开状态
 [MITM]
 hostname = %APPEND% license.enpass.io
 
