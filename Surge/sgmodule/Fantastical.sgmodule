@@ -1,5 +1,7 @@
 #!name=Fantastical
 #!desc=Fantastical Pro Unlock
+# 需一直保持打开模块/重写
+
 [MITM]
 hostname = %APPEND% api.flexibits.com
 [Script]
