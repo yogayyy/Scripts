@@ -1,0 +1,6 @@
+#!name=Lightroom Pro Unlock
+#!desc=The module should be kept open.
+[MITM]
+hostname=%APPEND% photos.adobe.io
+[Script]
+Lightroom = type=http-response,pattern=^https:\/\/photos\.adobe\.io\/v2\/accounts,requires-body=1,max-size=0,script-path= https://raw.githubusercontent.com/yogayyy/Scripts/master/Surge/Scripts/Lightroom.js,script-update-interval=-1
