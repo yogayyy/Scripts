@@ -1,4 +1,5 @@
-    {
+{ 
+   {
             "id": "smz",
             "name": "睡眠賺",
             "keys": ["ygkcurl","ygkchd"],
@@ -21,3 +22,4 @@
             "icons": ["https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg", "https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/smz.js"
     }
+}
