@@ -1,0 +1,23 @@
+    {
+            "id": "smz",
+            "name": "睡眠賺",
+            "keys": ["ygkcurl","ygkchd"],
+            "author": "@feizao",
+            "settings": [{
+            "id": "mmdzzstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "mmdzzcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "https://github.com/age174/-/blob/main/mmdzz.js",
+            "icons": ["https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg", "https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/smz.js"
+    }
