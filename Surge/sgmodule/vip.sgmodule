@@ -1,0 +1,13 @@
+#!name=vip
+#!desc=解锁功能
+
+[MITM]
+hostname =  %APPEND% api.termius.com, *.rr.tv, education.github.com, baimiao.uzero.cn, lambda.us-east-1.amazonaws.com, biz.caiyunapp.com
+
+[Script]
+Workingcopy = type=http-response,pattern=^https:\/\/education\.github\.com\/api\/user$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/workingcopy.js,script-update-interval=0
+白描 = type=http-response,pattern=^https:\/\/baimiao\.uzero\.cn\/api\/v2\.user\/(logout|appLaunchWithUser|loginByWeixin),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/id77/QuantumultX/master/Script/baimiao.js,script-update-interval=0
+termius 会员 = type=http-response,pattern=^https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/Terminus.js,script-update-interval=0
+人人视频 (by@george Jiang & R) = type=http-response,pattern=^https:\/\/api\.rr\.tv(\/user\/privilege\/list|\/ad\/getAll|\/rrtv-video\/v4plus\/season\/detail),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/rrtv.js,script-update-interval=0
+drops = type=http-response,pattern=^https:\/\/lambda\.us-east-1\.amazonaws\.com/.*/functions\/prod-4-syncPurchases\/invocations$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/drops.js,script-update-interval=0
+彩云天气 Vip = type=http-response,pattern=^https:\/\/biz\.caiyunapp\.com\/v2\/user\?app_name\=weather,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/ColorWeather.js,script-update-interval=0
