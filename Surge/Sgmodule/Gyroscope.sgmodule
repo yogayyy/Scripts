@@ -1,0 +1,7 @@
+#!name=Gyroscope Unlock
+#!desc=Gyroscope Pro Unlock
+[MITM]
+hostname = api.gyrosco.pe
+[Script]
+Endel = type=http-response,pattern=^https:\/\/api\.gyrosco\.pe\/v1\/account\/$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/yogayyy/Scripts/master/Surge/Scripts/gyroscope.js
+
