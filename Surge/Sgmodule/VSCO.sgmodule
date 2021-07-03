@@ -1,0 +1,8 @@
+#!name=VSCO Unlock
+#!desc=VSCO Pro Unlock
+
+[MITM]
+hostname =  %APPEND% vsco.co, api.revenuecat.com
+
+[Script]
+VSCO-Unlock = type=http-response,pattern=^https:\/\/(api\.revenuecat\.com\/v\d\/subscribers|vsco\.co\/api\/subscriptions\/\d\.\d\/user-subscriptions)\/,requires-body=1,max-size=0,script-path= https://raw.githubusercontent.com/yogayyy/Scripts/master/Surge/Scripts/Vsoc.js
