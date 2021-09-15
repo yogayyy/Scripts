@@ -240,7 +240,7 @@ async function retryCdn(code, url) {
 }
 
 function rraUrl() {
-    let url = 'https://github.com/ddgksf2013/Cuttlefish/raw/master/Jd/jd-live-rain.json'
+    let url = 'https://github.com/yogayyy/Scripts/master/QuantumultX/Scripts/JD/jd-live-rain.json'
     if($.isNode() && process.env.JD_RRA_URL){
         url = process.env.JD_RRA_URL
     }else if($.getdata('jdRRAUrl')){
