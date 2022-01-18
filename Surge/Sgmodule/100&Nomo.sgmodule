@@ -1,0 +1,8 @@
+#!name=NOMO&100 Pro Unlock
+#!desc=低调！低调！低调！
+
+[MITM]
+hostname = nomo.dafork.com, tagit.hyhuo.com
+[Script]
+NOMO Unlock = type=http-response,pattern=^https?:\/\/nomo\.dafork\.com\/api\/v3\/register\/phone_signin$,requires-body=1,max-size=0,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/nomo.js,script-update-interval=0
+拦截100 Unlock = type=http-response,pattern=^https?:\/\/tagit\.hyhuo\.com\/cypt\/block100\/get_vip_info$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/100.js,script-update-interval=0
