@@ -1,0 +1,7 @@
+#!name=拦截100 Pro Unlock
+#!desc=20220118
+
+[MITM]
+hostname = tagit.hyhuo.com
+[Script]
+拦截100 Unlock = type=http-response,pattern=^https?:\/\/tagit\.hyhuo\.com\/cypt\/block100\/get_vip_info$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/100.js,script-update-interval=0
